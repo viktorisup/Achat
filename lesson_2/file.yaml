@@ -1,0 +1,11 @@
+items:
+- computer
+- printer
+- keyboard
+- mouse
+items_two: 4
+items_three:
+  computer: 200€-1000€
+  printer: 100€-300€
+  keyboard: 5€-50€
+  mouse: 4€-7€
